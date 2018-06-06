@@ -1,2 +1,2 @@
 # calculatorC
-Ta´to aplika´cia predstavuje kalkul´ator pre jednoduch´e aritmetick´e oper´acia (+, -, *, /) vytvoreny´ v programovacom jazyku C++. Rozhranie kalkul´atora predstavuje jednoduch´e prostredie pr´ıkazov´eho riadku, kde ako vstup je zad´avany´ ret ’azec znakov predstavuju´ci matematicky výraz.
+Tato aplikacia predstavuje kalkulator pre jednoduche aritmeticke operacie (+, -, *, /) vytvoreny v programovacom jazyku C++. Rozhranie kalkulatora predstavuje jednoduche prostredie prıkazoveho riadku, kde ako vstup je zadavany retazec znakov predstavujuci matematicky vyraz.
