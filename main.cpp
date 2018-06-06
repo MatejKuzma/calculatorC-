@@ -2,6 +2,7 @@
 kompilovane cez:
 
 g++ main.cpp -Wall -o calc
+alebo cez makefile
 */
 
 #include <iostream>
